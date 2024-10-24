@@ -42,3 +42,5 @@ TypeError [ERR_UNKNOWN_FILE_EXTENSION]: Unknown file extension ".svg" for […]/
     at async ModuleLoader.load (node:internal/modules/esm/loader:396:7)
     at async ModuleLoader.moduleProvider (node:internal/modules/esm/loader:278:45)
 ```
+
+Upstream bug report: https://github.com/withastro/astro/issues/12299
